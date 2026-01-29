@@ -1,0 +1,10 @@
+# datasets / large binaries
+data/
+*.tar.gz
+*.zip
+*.7z
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
